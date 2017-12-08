@@ -8,7 +8,7 @@ Due to the scale of Diverse Fantasy, moving away from a room page with a single 
 * Allow users to edit a human-readable language (Markdown)
 * Provide SOI (Separation of Interest) page building, allowing for the project to be divided based on kingdoms, factions, guilds, or any other chosen division.
 * Implement a version-controlled environment allowing for fast and efficient rollbacks
-*Include an edit-proposal solution, allowing unauthorized users to propose changes to the document and allow a selected team to review and accept, deny, or modify the change proposal.
+* Include an edit-proposal solution, allowing unauthorized users to propose changes to the document and allow a selected team to review and accept, deny, or modify the change proposal.
 * Create a character page with the pull request ID on F-List to provide a preview of the changes.
 ### SPECIFICATIONS
 The project will be held on GitHub, depending on if we want private repositories. Users will login and either edit the documents directly (if allowed) or make proposals for the changes. Custom markdown will provide users with a 1:1 conversion between user-readable Markdown and F-List-flavored BBCode.
