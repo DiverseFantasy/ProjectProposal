@@ -30,11 +30,11 @@ As a TL;DR, the bot will:
 * Merge multiple pages (allowing us to separate sections into multiple pages as appropriate)
 ### NOTES FOR EDITORS
 If you are making changes to the lore page, one of two things will apply:
-* Direct edit permissions: Those with permissions to push directly to the document will be able to edit the documents directly. * These changes will be logged and catalogued automatically. Users with these permissions will be responsible for reviewing and approving or denying pull requests, as well as handling any roll-backs.
-* Pull request permissions: Those without permissions to edit directly will do so through the pull request system. This system allows you to edit the document freely and then submit your changes to the lore team for review. If we wish to open it up to the public (which I advocate for), then this is the permission set they will get.
+* **Direct edit permissions**: Those with permissions to push directly to the document will be able to edit the documents directly. These changes will be logged and catalogued automatically. Users with these permissions will be responsible for reviewing and approving or denying pull requests, as well as handling any roll-backs.
+* **Pull request permissions**: Those without permissions to edit directly will do so through the pull request system. This system allows you to edit the document freely and then submit your changes to the lore team for review. If we wish to open it up to the public (which I advocate for), then this is the permission set they will get.
 **There are two terms you will need to know for this before you get started:**
-* Push: A push is taking your edits and applying them to the repository without using the pull-request system. If you edit the document(s) directly, you are said to have “pushed” your changes.
-* Pull: A pull is the action of taking proposed changes to the document(s) and applying them. Users without edit permissions will make pull requests, which asks the lore team to perform a pull on the changes they are proposing.
+* **Push**: A push is taking your edits and applying them to the repository without using the pull-request system. If you edit the document(s) directly, you are said to have “pushed” your changes.
+* **Pull**: A pull is the action of taking proposed changes to the document(s) and applying them. Users without edit permissions will make pull requests, which asks the lore team to perform a pull on the changes they are proposing.
 ### DEVELOPER NOTES
 * [x] Move this document to GitHub
 * [ ] Provide a Markdown tutorial
